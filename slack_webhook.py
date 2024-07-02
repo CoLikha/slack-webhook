@@ -18,7 +18,7 @@ class coLinkha:
 
 
 webhook_url = ''
-channel = '#random'
+channel = '#test'
 co_Likha = coLinkha(webhook_url, channel)
 
 
